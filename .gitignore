@@ -1,0 +1,4 @@
+.envrc
+log/
+tmp/
+config/master.key
