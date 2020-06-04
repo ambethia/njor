@@ -5,7 +5,7 @@ default: &default
 
 development:
   <<: *default
-  database: njor_development
+  database: njor
 
 test:
   <<: *default
@@ -13,6 +13,5 @@ test:
 
 production:
   <<: *default
-  database: njor_production
-  username: njor
-  password: <%= ENV['NJOR_DATABASE_PASSWORD'] %>
+  url: <%= ENV["DATABASE_URL"] %>
+  pool: <%= ENV["DB_POOL"] || ENV['RAILS_MAX_THREADS'] || 5 %>
