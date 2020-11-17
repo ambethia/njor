@@ -2,7 +2,9 @@ Rails.application.routes.draw do
   scope :api do
     with_options only: [:index, :show] do |read_only|
       read_only.resources :playable_classes do
-        read_only.resources :specializations
+        read_only.resources :specializations do
+          resources :abilities
+        end
       end
     end
 

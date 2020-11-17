@@ -5,4 +5,5 @@ gem "puma"
 gem "pg"
 
 gem "faraday"
+gem "olive_branch"
 gem "pagy"

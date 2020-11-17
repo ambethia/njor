@@ -1,2 +1,2 @@
-class KeybindsController < ResourceController
+class KeymapsController < ResourceController
 end
