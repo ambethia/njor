@@ -7,10 +7,6 @@ development:
   <<: *default
   database: njor
 
-test:
-  <<: *default
-  database: njor_test
-
 production:
   <<: *default
   url: <%= ENV["DATABASE_URL"] %>
