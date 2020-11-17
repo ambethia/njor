@@ -1,0 +1,154 @@
+Ability;Monk;Transcendence: Transfer;;false;SPELL;119996
+Ability;Monk;Paralysis;;false;SPELL;115078
+Ability;Monk;Zen Pilgrimage;;false;SPELL;126892
+Ability;Monk;Tiger Palm;;false;SPELL;100780
+Ability;Monk;Blackout Kick;;false;SPELL;100784
+Ability;Monk;Roll;;false;SPELL;109132
+Ability;Monk;Crackling Jade Lightning;;false;SPELL;117952
+Ability;Monk;Transcendence;;false;SPELL;101643
+Ability;Monk;Resuscitate;;false;SPELL;115178
+Ability;Monk;Ring of Peace;;false;SPELL;175697
+Ability;Monk;Provoke;;false;SPELL;115546
+Ability;Monk;Vivify;;false;SPELL;116670
+Ability;Monk;Expel Harm;;false;SPELL;322101
+Ability;Monk;Touch of Death;;false;SPELL;322109
+Ability;Monk;Leg Sweep;;false;SPELL;119381
+Ability;Monk;Spinning Crane Kick;;false;SPELL;101546
+Ability;Monk;Zen Flight;;false;SPELL;125883
+Ability;Monk;Fortifying Brew;;false;SPELL;115203
+Ability;Monk;Detox;;false;SPELL;218164
+Ability;Monk;Mystic Touch;;true;SPELL;8647
+Ability;Monk;Paralysis;;true;SPELL;344359
+Ability;Windwalker;Flying Serpent Kick;;false;SPELL;101545
+Ability;Windwalker;Fist of the White Tiger;;false;SPELL;261947
+Ability;Windwalker;Storm, Earth, and Fire;;false;SPELL;137639
+Ability;Windwalker;Spear Hand Strike;;false;SPELL;116705
+Ability;Windwalker;Whirling Dragon Punch;;false;SPELL;152175
+Ability;Windwalker;Invoke Xuen, the White Tiger;;false;SPELL;123904
+Ability;Windwalker;Touch of Karma;;false;SPELL;122470
+Ability;Windwalker;Rising Sun Kick;;false;SPELL;107428
+Ability;Windwalker;Disable;;false;SPELL;116095
+Ability;Windwalker;Diffuse Magic;;false;SPELL;122783
+Ability;Windwalker;Fists of Fury;;false;SPELL;113656
+Ability;Windwalker;Chi Wave;;false;SPELL;115098
+Ability;Windwalker;Windwalking;;true;SPELL;157411
+Ability;Windwalker;Mastery: Combo Strikes;;true;SPELL;115636
+Ability;Windwalker;Afterlife;;true;SPELL;116092
+Ability;Windwalker;Touch of Death;;true;SPELL;325215
+Ability;Windwalker;Flying Serpent Kick;;true;SPELL;344487
+Ability;Windwalker;Invoke Xuen, the White Tiger;;true;SPELL;323999
+Ability;Brewmaster;Spear Hand Strike;;false;SPELL;116705
+Ability;Brewmaster;Spinning Crane Kick;;false;SPELL;322729
+Ability;Brewmaster;Stagger;;true;SPELL;322522
+Ability;Brewmaster;Purifying Brew;;true;SPELL;343743
+Ability;Brewmaster;Fortifying Brew;;true;SPELL;322960
+Ability;Brewmaster;Celestial Brew;;true;SPELL;322510
+Ability;Brewmaster;Spinning Crane Kick;;true;SPELL;322700
+Ability;Brewmaster;Expel Harm;;true;SPELL;322102
+Ability;Brewmaster;Celestial Brew;;false;SPELL;322507
+Ability;Brewmaster;Invoke Niuzao, the Black Ox;;false;SPELL;132578
+Ability;Brewmaster;Vivify;;true;SPELL;231602
+Ability;Brewmaster;Blackout Kick;;false;SPELL;205523
+Ability;Brewmaster;Zen Meditation;;false;SPELL;115176
+Ability;Brewmaster;Keg Smash;;false;SPELL;121253
+Ability;Brewmaster;Purifying Brew;;false;SPELL;119582
+Ability;Brewmaster;Breath of Fire;;false;SPELL;115181
+Ability;Brewmaster;Celestial Fortune;;true;SPELL;216519
+Ability;Brewmaster;Gift of the Ox;;true;SPELL;124502
+Ability;Brewmaster;Mastery: Elusive Brawler;;true;SPELL;117906
+Ability;Brewmaster;Shuffle;;true;SPELL;322120
+Ability;Brewmaster;Brewmaster's Balance;;true;SPELL;245013
+Ability;Brewmaster;Stagger;;true;SPELL;115069
+Ability;Brewmaster;Touch of Death;;true;SPELL;325095
+Ability;Brewmaster;Clash;;false;SPELL;324312
+Ability;Brewmaster;Zen Meditation;;true;SPELL;328682
+Ability;Brewmaster;Invoke Niuzao, the Black Ox;;true;SPELL;322740
+Ability;Mistweaver;Rising Sun Kick;;true;SPELL;262840
+Ability;Mistweaver;Renewing Mist;;false;SPELL;115151
+Ability;Mistweaver;Revival;;false;SPELL;115310
+Ability;Mistweaver;Teachings of the Monastery;;true;SPELL;116645
+Ability;Mistweaver;Thunder Focus Tea;;false;SPELL;116680
+Ability;Mistweaver;Mastery: Gust of Mists;;true;SPELL;117907
+Ability;Mistweaver;Life Cocoon;;false;SPELL;116849
+Ability;Mistweaver;Enveloping Mist;;false;SPELL;124682
+Ability;Mistweaver;Essence Font;;false;SPELL;191837
+Ability;Mistweaver;Detox;;false;SPELL;115450
+Ability;Mistweaver;Reawaken;;false;SPELL;212051
+Ability;Mistweaver;Enveloping Mist;;true;SPELL;231605
+Ability;Mistweaver;Essence Font;;true;SPELL;231633
+Ability;Mistweaver;Thunder Focus Tea;;true;SPELL;231876
+Ability;Mistweaver;Rising Sun Kick;;false;SPELL;107428
+Ability;Mistweaver;Soothing Mist;;false;SPELL;115175
+Ability;Mistweaver;Vivify;;true;SPELL;274586
+Ability;Mistweaver;Renewing Mist;;true;SPELL;281231
+Ability;Mistweaver;Invoke Yu'lon, the Jade Serpent;;false;SPELL;322118
+Ability;Mistweaver;Fortifying Brew;;false;SPELL;243435
+Ability;Mistweaver;Life Coccoon;;true;SPELL;343744
+Ability;Mistweaver;Expel Harm;;true;SPELL;322104
+Ability;Mistweaver;Fortifying Brew;;true;SPELL;325208
+Ability;Mistweaver;Touch of Death;;true;SPELL;344360
+Ability;Mistweaver;Expel Harm;;true;SPELL;325214
+Ability;Mistweaver;Enveloping Breath;;true;SPELL;343655
+Talent;Brewmaster;Eye of the Tiger;true;Tier 1;SPELL;196607
+Talent;Brewmaster;Chi Wave;false;Tier 1;SPELL;115098
+Talent;Brewmaster;Chi Burst;false;Tier 1;SPELL;123986
+Talent;Brewmaster;Celerity;true;Tier 2;SPELL;115173
+Talent;Brewmaster;Chi Torpedo;false;Tier 2;SPELL;115008
+Talent;Brewmaster;Tiger's Lust;false;Tier 2;SPELL;116841
+Talent;Brewmaster;Light Brewing;true;Tier 3;SPELL;325093
+Talent;Brewmaster;Spitfire;true;Tier 3;SPELL;242580
+Talent;Brewmaster;Black Ox Brew;false;Tier 3;SPELL;115399
+Talent;Brewmaster;Tiger Tail Sweep;true;Tier 4;SPELL;264348
+Talent;Brewmaster;Summon Black Ox Statue;false;Tier 4;SPELL;115315
+Talent;Brewmaster;Ring of Peace;false;Tier 4;SPELL;116844
+Talent;Brewmaster;Bob and Weave;true;Tier 5;SPELL;280515
+Talent;Brewmaster;Healing Elixir;false;Tier 5;SPELL;122281
+Talent;Brewmaster;Dampen Harm;false;Tier 5;SPELL;122278
+Talent;Brewmaster;Special Delivery;true;Tier 6;SPELL;196730
+Talent;Brewmaster;Rushing Jade Wind;false;Tier 6;SPELL;116847
+Talent;Brewmaster;Exploding Keg;false;Tier 6;SPELL;325153
+Talent;Brewmaster;High Tolerance;true;Tier 7;SPELL;196737
+Talent;Brewmaster;Celestial Flames;true;Tier 7;SPELL;325177
+Talent;Brewmaster;Blackout Combo;true;Tier 7;SPELL;196736
+Talent;Mistweaver;Mist Wrap;true;Tier 1;SPELL;197900
+Talent;Mistweaver;Chi Wave;false;Tier 1;SPELL;115098
+Talent;Mistweaver;Chi Burst;false;Tier 1;SPELL;123986
+Talent;Mistweaver;Celerity;true;Tier 2;SPELL;115173
+Talent;Mistweaver;Chi Torpedo;false;Tier 2;SPELL;115008
+Talent;Mistweaver;Tiger's Lust;false;Tier 2;SPELL;116841
+Talent;Mistweaver;Lifecycles;true;Tier 3;SPELL;197915
+Talent;Mistweaver;Spirit of the Crane;true;Tier 3;SPELL;210802
+Talent;Mistweaver;Mana Tea;false;Tier 3;SPELL;197908
+Talent;Mistweaver;Tiger Tail Sweep;true;Tier 4;SPELL;264348
+Talent;Mistweaver;Song of Chi-Ji;false;Tier 4;SPELL;198898
+Talent;Mistweaver;Ring of Peace;false;Tier 4;SPELL;116844
+Talent;Mistweaver;Healing Elixir;false;Tier 5;SPELL;122281
+Talent;Mistweaver;Diffuse Magic;false;Tier 5;SPELL;122783
+Talent;Mistweaver;Dampen Harm;false;Tier 5;SPELL;122278
+Talent;Mistweaver;Summon Jade Serpent Statue;false;Tier 6;SPELL;115313
+Talent;Mistweaver;Refreshing Jade Wind;false;Tier 6;SPELL;196725
+Talent;Mistweaver;Invoke Chi-Ji, the Red Crane;false;Tier 6;SPELL;325197
+Talent;Mistweaver;Focused Thunder;true;Tier 7;SPELL;197895
+Talent;Mistweaver;Upwelling;true;Tier 7;SPELL;274963
+Talent;Mistweaver;Rising Mist;true;Tier 7;SPELL;274909
+Talent;Windwalker;Eye of the Tiger;true;Tier 1;SPELL;196607
+Talent;Windwalker;Chi Wave;false;Tier 1;SPELL;115098
+Talent;Windwalker;Chi Burst;false;Tier 1;SPELL;123986
+Talent;Windwalker;Celerity;true;Tier 2;SPELL;115173
+Talent;Windwalker;Chi Torpedo;false;Tier 2;SPELL;115008
+Talent;Windwalker;Tiger's Lust;false;Tier 2;SPELL;116841
+Talent;Windwalker;Ascension;true;Tier 3;SPELL;115396
+Talent;Windwalker;Fist of the White Tiger;false;Tier 3;SPELL;261947
+Talent;Windwalker;Energizing Elixir;false;Tier 3;SPELL;115288
+Talent;Windwalker;Tiger Tail Sweep;true;Tier 4;SPELL;264348
+Talent;Windwalker;Good Karma;true;Tier 4;SPELL;280195
+Talent;Windwalker;Ring of Peace;false;Tier 4;SPELL;116844
+Talent;Windwalker;Inner Strength;true;Tier 5;SPELL;261767
+Talent;Windwalker;Diffuse Magic;false;Tier 5;SPELL;122783
+Talent;Windwalker;Dampen Harm;false;Tier 5;SPELL;122278
+Talent;Windwalker;Hit Combo;true;Tier 6;SPELL;196740
+Talent;Windwalker;Rushing Jade Wind;false;Tier 6;SPELL;116847
+Talent;Windwalker;Dance of Chi-Ji;true;Tier 6;SPELL;325201
+Talent;Windwalker;Spiritual Focus;true;Tier 7;SPELL;280197
+Talent;Windwalker;Whirling Dragon Punch;false;Tier 7;SPELL;152175
+Talent;Windwalker;Serenity;false;Tier 7;SPELL;152173

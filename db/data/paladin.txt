@@ -1,0 +1,132 @@
+Ability;Paladin;Word of Glory;;false;SPELL;85673
+Ability;Paladin;Judgment;;false;SPELL;20271
+Ability;Paladin;Lay on Hands;;false;SPELL;633
+Ability;Paladin;Blessing of Freedom;;false;SPELL;1044
+Ability;Paladin;Divine Shield;;false;SPELL;642
+Ability;Paladin;Crusader Aura;;false;SPELL;32223
+Ability;Paladin;Redemption;;false;SPELL;7328
+Ability;Paladin;Hand of Reckoning;;false;SPELL;62124
+Ability;Paladin;Divine Steed;;false;SPELL;190784
+Ability;Paladin;Devotion Aura;;false;SPELL;465
+Ability;Paladin;Retribution Aura;;false;SPELL;183435
+Ability;Paladin;Shield of the Righteous;;false;SPELL;53600
+Ability;Paladin;Turn Evil;;false;SPELL;10326
+Ability;Paladin;Blessing of Sacrifice;;false;SPELL;6940
+Ability;Paladin;Flash of Light;;false;SPELL;19750
+Ability;Paladin;Hammer of Justice;;false;SPELL;853
+Ability;Paladin;Consecration;;false;SPELL;26573
+Ability;Paladin;Blessing of Protection;;false;SPELL;1022
+Ability;Paladin;Avenging Wrath;;false;SPELL;31884
+Ability;Paladin;Hammer of Wrath;;false;SPELL;24275
+Ability;Paladin;Concentration Aura;;false;SPELL;317920
+Ability;Paladin;Sense Undead;;false;SPELL;5502
+Ability;Paladin;Retribution Aura;;true;SPELL;317906
+Ability;Paladin;Hammer of Wrath;;true;SPELL;326730
+Ability;Protection;Hammer of the Righteous;;false;SPELL;35395
+Ability;Protection;Guardian of Ancient Kings;;false;SPELL;86659
+Ability;Protection;Avenger's Shield;;false;SPELL;31935
+Ability;Protection;Cleanse Toxins;;false;SPELL;213644
+Ability;Protection;Rebuke;;false;SPELL;96231
+Ability;Protection;Ardent Defender;;false;SPELL;498
+Ability;Protection;Grand Crusader;;true;SPELL;85043
+Ability;Protection;Shining Light;;true;SPELL;321136
+Ability;Protection;Mastery: Divine Bulwark;;true;SPELL;76671
+Ability;Protection;Riposte;;true;SPELL;161800
+Ability;Holy;Judgment;;false;SPELL;275773
+Ability;Holy;Holy Shock;;true;SPELL;272906
+Ability;Holy;Crusader Strike;;true;SPELL;231667
+Ability;Holy;Beacon of Light;;true;SPELL;231642
+Ability;Holy;Absolution;;false;SPELL;212056
+Ability;Holy;Light of the Martyr;;false;SPELL;183998
+Ability;Holy;Divine Protection;;false;SPELL;498
+Ability;Holy;Crusader Strike;;false;SPELL;35395
+Ability;Holy;Light of Dawn;;false;SPELL;85222
+Ability;Holy;Cleanse;;false;SPELL;4987
+Ability;Holy;Avenging Wrath;;true;SPELL;327979
+Ability;Holy;Judgment;;true;SPELL;231644
+Ability;Holy;Holy Light;;false;SPELL;82326
+Ability;Holy;Aura Mastery;;false;SPELL;31821
+Ability;Holy;Holy Shock;;false;SPELL;20473
+Ability;Holy;Beacon of Light;;false;SPELL;53563
+Ability;Holy;Mastery: Lightbringer;;true;SPELL;183997
+Ability;Holy;Infusion of Light;;true;SPELL;53576
+Ability;Retribution;Crusader Strike;;true;SPELL;342348
+Ability;Retribution;Crusader Strike;;false;SPELL;35395
+Ability;Retribution;Blade of Justice;;false;SPELL;184575
+Ability;Retribution;Shield of Vengeance;;false;SPELL;184662
+Ability;Retribution;Cleanse Toxins;;false;SPELL;213644
+Ability;Retribution;Crusader Strike;;true;SPELL;231667
+Ability;Retribution;Mastery: Hand of Light;;true;SPELL;267316
+Ability;Retribution;Judgment;;true;SPELL;231663
+Ability;Retribution;Art of War;;true;SPELL;267344
+Ability;Retribution;Judgment;;true;SPELL;315867
+Ability;Retribution;Wake of Ashes;;false;SPELL;255937
+Ability;Retribution;Art of War;;true;SPELL;317912
+Ability;Retribution;Blade of Justice;;true;SPELL;327981
+Ability;Retribution;Templar's Verdict;;false;SPELL;85256
+Ability;Retribution;Divine Storm;;false;SPELL;53385
+Ability;Retribution;Hand of Hindrance;;false;SPELL;183218
+Ability;Retribution;Rebuke;;false;SPELL;96231
+Talent;Holy;Crusader's Might;true;Tier 1;SPELL;196926
+Talent;Holy;Bestow Faith;false;Tier 1;SPELL;223306
+Talent;Holy;Light's Hammer;false;Tier 1;SPELL;114158
+Talent;Holy;Saved by the Light;true;Tier 2;SPELL;157047
+Talent;Holy;Judgment of Light;true;Tier 2;SPELL;183778
+Talent;Holy;Holy Prism;false;Tier 2;SPELL;114165
+Talent;Holy;Fist of Justice;true;Tier 3;SPELL;234299
+Talent;Holy;Repentance;false;Tier 3;SPELL;20066
+Talent;Holy;Blinding Light;false;Tier 3;SPELL;115750
+Talent;Holy;Unbreakable Spirit;true;Tier 4;SPELL;114154
+Talent;Holy;Cavalier;true;Tier 4;SPELL;230332
+Talent;Holy;Rule of Law;false;Tier 4;SPELL;214202
+Talent;Holy;Divine Purpose;true;Tier 5;SPELL;223817
+Talent;Holy;Holy Avenger;false;Tier 5;SPELL;105809
+Talent;Holy;Seraphim;false;Tier 5;SPELL;152262
+Talent;Holy;Sanctified Wrath;true;Tier 6;SPELL;53376
+Talent;Holy;Avenging Crusader;false;Tier 6;SPELL;216331
+Talent;Holy;Awakening;true;Tier 6;SPELL;248033
+Talent;Holy;Glimmer of Light;true;Tier 7;SPELL;325966
+Talent;Holy;Beacon of Faith;false;Tier 7;SPELL;156910
+Talent;Holy;Beacon of Virtue;false;Tier 7;SPELL;200025
+Talent;Protection;Holy Shield;true;Tier 1;SPELL;152261
+Talent;Protection;Redoubt;true;Tier 1;SPELL;280373
+Talent;Protection;Blessed Hammer;false;Tier 1;SPELL;204019
+Talent;Protection;First Avenger;true;Tier 2;SPELL;203776
+Talent;Protection;Crusader's Judgment;true;Tier 2;SPELL;204023
+Talent;Protection;Moment of Glory;false;Tier 2;SPELL;327193
+Talent;Protection;Fist of Justice;true;Tier 3;SPELL;234299
+Talent;Protection;Repentance;false;Tier 3;SPELL;20066
+Talent;Protection;Blinding Light;false;Tier 3;SPELL;115750
+Talent;Protection;Unbreakable Spirit;true;Tier 4;SPELL;114154
+Talent;Protection;Cavalier;true;Tier 4;SPELL;230332
+Talent;Protection;Blessing of Spellwarding;false;Tier 4;SPELL;204018
+Talent;Protection;Divine Purpose;true;Tier 5;SPELL;223817
+Talent;Protection;Holy Avenger;false;Tier 5;SPELL;105809
+Talent;Protection;Seraphim;false;Tier 5;SPELL;152262
+Talent;Protection;Hand of the Protector;true;Tier 6;SPELL;315924
+Talent;Protection;Consecrated Ground;true;Tier 6;SPELL;204054
+Talent;Protection;Judgment of Light;true;Tier 6;SPELL;183778
+Talent;Protection;Sanctified Wrath;true;Tier 7;SPELL;171648
+Talent;Protection;Righteous Protector;true;Tier 7;SPELL;204074
+Talent;Protection;Final Stand;true;Tier 7;SPELL;204077
+Talent;Retribution;Zeal;true;Tier 1;SPELL;269569
+Talent;Retribution;Righteous Verdict;true;Tier 1;SPELL;267610
+Talent;Retribution;Execution Sentence;false;Tier 1;SPELL;343527
+Talent;Retribution;Fires of Justice;true;Tier 2;SPELL;203316
+Talent;Retribution;Blade of Wrath;true;Tier 2;SPELL;231832
+Talent;Retribution;Empyrean Power;true;Tier 2;SPELL;326732
+Talent;Retribution;Fist of Justice;true;Tier 3;SPELL;234299
+Talent;Retribution;Repentance;false;Tier 3;SPELL;20066
+Talent;Retribution;Blinding Light;false;Tier 3;SPELL;115750
+Talent;Retribution;Unbreakable Spirit;true;Tier 4;SPELL;114154
+Talent;Retribution;Cavalier;true;Tier 4;SPELL;230332
+Talent;Retribution;Eye for an Eye;false;Tier 4;SPELL;205191
+Talent;Retribution;Divine Purpose;true;Tier 5;SPELL;223817
+Talent;Retribution;Holy Avenger;false;Tier 5;SPELL;105809
+Talent;Retribution;Seraphim;false;Tier 5;SPELL;152262
+Talent;Retribution;Selfless Healer;true;Tier 6;SPELL;85804
+Talent;Retribution;Justicar's Vengeance;false;Tier 6;SPELL;215661
+Talent;Retribution;Healing Hands;true;Tier 6;SPELL;326734
+Talent;Retribution;Sanctified Wrath;true;Tier 7;SPELL;317866
+Talent;Retribution;Crusade;false;Tier 7;SPELL;231895
+Talent;Retribution;Final Reckoning;false;Tier 7;SPELL;343721

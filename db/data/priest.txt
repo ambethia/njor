@@ -1,0 +1,146 @@
+Ability;Priest;Dispel Magic;;false;SPELL;528
+Ability;Priest;Resurrection;;false;SPELL;2006
+Ability;Priest;Shadow Word: Death;;false;SPELL;32379
+Ability;Priest;Shadow Word: Pain;;false;SPELL;589
+Ability;Priest;Desperate Prayer;;false;SPELL;19236
+Ability;Priest;Psychic Scream;;false;SPELL;8122
+Ability;Priest;Leap of Faith;;false;SPELL;73325
+Ability;Priest;Levitate;;false;SPELL;1706
+Ability;Priest;Mind Vision;;false;SPELL;2096
+Ability;Priest;Mind Blast;;false;SPELL;8092
+Ability;Priest;Power Word: Fortitude;;false;SPELL;21562
+Ability;Priest;Mind Control;;false;SPELL;605
+Ability;Priest;Fade;;false;SPELL;586
+Ability;Priest;Shackle Undead;;false;SPELL;9484
+Ability;Priest;Power Word: Shield;;false;SPELL;17
+Ability;Priest;Mass Dispel;;false;SPELL;32375
+Ability;Priest;Focused Will;;true;SPELL;45243
+Ability;Priest;Mind Soothe;;false;SPELL;453
+Ability;Priest;Power Infusion;;false;SPELL;10060
+Ability;Shadow;Dispersion;;false;SPELL;47585
+Ability;Shadow;Vampiric Embrace;;false;SPELL;15286
+Ability;Shadow;Shadowfiend;;false;SPELL;34433
+Ability;Shadow;Purify Disease;;false;SPELL;213634
+Ability;Shadow;Mind Flay;;false;SPELL;585
+Ability;Shadow;Shadowform;;false;SPELL;232698
+Ability;Shadow;Devouring Plague;;false;SPELL;335467
+Ability;Shadow;Mind Sear;;false;SPELL;48045
+Ability;Shadow;Shadow Mend;;false;SPELL;2061
+Ability;Shadow;Silence;;false;SPELL;15487
+Ability;Shadow;Vampiric Touch;;false;SPELL;34914
+Ability;Shadow;Void Eruption;;false;SPELL;228260
+Ability;Shadow;Voidform;;true;SPELL;228264
+Ability;Shadow;Shadowy Apparitions;;true;SPELL;341491
+Ability;Shadow;Void Bolt;;true;SPELL;228266
+Ability;Shadow;Mastery: Shadow Weaving;;true;SPELL;343690
+Ability;Shadow;Hallucinations;;true;SPELL;280752
+Ability;Shadow;Dark Thoughts;;true;SPELL;341205
+Ability;Shadow;Shadow Mend;;true;SPELL;342991
+Ability;Discipline;Shadow Mend;;false;SPELL;186263
+Ability;Discipline;Smite;;false;SPELL;585
+Ability;Discipline;Penance;;false;SPELL;47540
+Ability;Discipline;Pain Suppression;;false;SPELL;33206
+Ability;Discipline;Power Word: Barrier;;false;SPELL;62618
+Ability;Discipline;Purify;;false;SPELL;527
+Ability;Discipline;Rapture;;false;SPELL;47536
+Ability;Discipline;Shadowfiend;;false;SPELL;34433
+Ability;Discipline;Power Word: Radiance;;false;SPELL;194509
+Ability;Discipline;Mass Resurrection;;false;SPELL;212036
+Ability;Discipline;Mind Blast;;true;SPELL;231682
+Ability;Discipline;Holy Nova;;false;SPELL;132157
+Ability;Discipline;Power Word: Radiance;;true;SPELL;322115
+Ability;Discipline;Focused Will;;true;SPELL;285485
+Ability;Discipline;Mind Sear;;false;SPELL;48045
+Ability;Discipline;Shadowfiend;;true;SPELL;343726
+Ability;Discipline;Smite;;true;SPELL;262861
+Ability;Discipline;Power of the Dark Side;;true;SPELL;198068
+Ability;Discipline;Mastery: Grace;;true;SPELL;271534
+Ability;Discipline;Atonement;;true;SPELL;81749
+Ability;Discipline;Holy Nova;;true;SPELL;322112
+Ability;Holy;Focused Will;;true;SPELL;285485
+Ability;Holy;Prayer of Mending;;true;SPELL;319912
+Ability;Holy;Circle of Healing;;false;SPELL;204883
+Ability;Holy;Holy Fire;;false;SPELL;14914
+Ability;Holy;Smite;;true;SPELL;262861
+Ability;Holy;Holy Word: Chastise;;false;SPELL;88625
+Ability;Holy;Prayer of Mending;;false;SPELL;33076
+Ability;Holy;Holy Nova;;false;SPELL;132157
+Ability;Holy;Mass Resurrection;;false;SPELL;212036
+Ability;Holy;Symbol of Hope;;false;SPELL;64901
+Ability;Holy;Prayer of Healing;;false;SPELL;596
+Ability;Holy;Holy Word: Sanctify;;false;SPELL;34861
+Ability;Holy;Guardian Spirit;;false;SPELL;47788
+Ability;Holy;Flash Heal;;false;SPELL;2061
+Ability;Holy;Divine Hymn;;false;SPELL;64843
+Ability;Holy;Smite;;false;SPELL;585
+Ability;Holy;Purify;;false;SPELL;527
+Ability;Holy;Holy Words;;true;SPELL;63733
+Ability;Holy;Renew;;false;SPELL;139
+Ability;Holy;Holy Word: Serenity;;false;SPELL;2050
+Ability;Holy;Heal;;false;SPELL;2060
+Ability;Holy;Spirit of Redemption;;true;SPELL;20711
+Ability;Holy;Mastery: Echo of Light;;true;SPELL;77485
+Ability;Holy;Holy Nova;;true;SPELL;322112
+Talent;Discipline;Castigation;true;Tier 1;SPELL;193134
+Talent;Discipline;Twist of Fate;true;Tier 1;SPELL;265259
+Talent;Discipline;Schism;false;Tier 1;SPELL;214621
+Talent;Discipline;Body and Soul;true;Tier 2;SPELL;64129
+Talent;Discipline;Masochism;true;Tier 2;SPELL;193063
+Talent;Discipline;Angelic Feather;false;Tier 2;SPELL;121536
+Talent;Discipline;Shield Discipline;true;Tier 3;SPELL;197045
+Talent;Discipline;Mindbender;false;Tier 3;SPELL;123040
+Talent;Discipline;Power Word: Solace;false;Tier 3;SPELL;129250
+Talent;Discipline;Psychic Voice;true;Tier 4;SPELL;196704
+Talent;Discipline;Dominant Mind;true;Tier 4;SPELL;205367
+Talent;Discipline;Shining Force;false;Tier 4;SPELL;204263
+Talent;Discipline;Sins of the Many;true;Tier 5;SPELL;280391
+Talent;Discipline;Contrition;true;Tier 5;SPELL;197419
+Talent;Discipline;Shadow Covenant;false;Tier 5;SPELL;314867
+Talent;Discipline;Purge the Wicked;false;Tier 6;SPELL;204197
+Talent;Discipline;Divine Star;false;Tier 6;SPELL;110744
+Talent;Discipline;Halo;false;Tier 6;SPELL;120517
+Talent;Discipline;Lenience;true;Tier 7;SPELL;238063
+Talent;Discipline;Spirit Shell;false;Tier 7;SPELL;109964
+Talent;Discipline;Evangelism;false;Tier 7;SPELL;246287
+Talent;Holy;Enlightenment;true;Tier 1;SPELL;193155
+Talent;Holy;Trail of Light;true;Tier 1;SPELL;200128
+Talent;Holy;Renewed Faith;true;Tier 1;SPELL;341997
+Talent;Holy;Angel's Mercy;true;Tier 2;SPELL;238100
+Talent;Holy;Body and Soul;true;Tier 2;SPELL;64129
+Talent;Holy;Angelic Feather;false;Tier 2;SPELL;121536
+Talent;Holy;Cosmic Ripple;true;Tier 3;SPELL;238136
+Talent;Holy;Guardian Angel;true;Tier 3;SPELL;200209
+Talent;Holy;Afterlife;true;Tier 3;SPELL;196707
+Talent;Holy;Psychic Voice;true;Tier 4;SPELL;196704
+Talent;Holy;Censure;true;Tier 4;SPELL;200199
+Talent;Holy;Shining Force;false;Tier 4;SPELL;204263
+Talent;Holy;Surge of Light;true;Tier 5;SPELL;109186
+Talent;Holy;Binding Heal;false;Tier 5;SPELL;32546
+Talent;Holy;Prayer Circle;true;Tier 5;SPELL;321377
+Talent;Holy;Benediction;true;Tier 6;SPELL;193157
+Talent;Holy;Divine Star;false;Tier 6;SPELL;110744
+Talent;Holy;Halo;false;Tier 6;SPELL;120517
+Talent;Holy;Light of the Naaru;true;Tier 7;SPELL;196985
+Talent;Holy;Apotheosis;false;Tier 7;SPELL;200183
+Talent;Holy;Holy Word: Salvation;false;Tier 7;SPELL;265202
+Talent;Shadow;Fortress of the Mind;true;Tier 1;SPELL;193195
+Talent;Shadow;Death and Madness;true;Tier 1;SPELL;321291
+Talent;Shadow;Unfurling Darkness;true;Tier 1;SPELL;341273
+Talent;Shadow;Body and Soul;true;Tier 2;SPELL;64129
+Talent;Shadow;San'layn;true;Tier 2;SPELL;199855
+Talent;Shadow;Intangibility;true;Tier 2;SPELL;288733
+Talent;Shadow;Twist of Fate;true;Tier 3;SPELL;109142
+Talent;Shadow;Misery;true;Tier 3;SPELL;238558
+Talent;Shadow;Searing Nightmare;false;Tier 3;SPELL;341385
+Talent;Shadow;Last Word;true;Tier 4;SPELL;263716
+Talent;Shadow;Mind Bomb;false;Tier 4;SPELL;205369
+Talent;Shadow;Psychic Horror;false;Tier 4;SPELL;64044
+Talent;Shadow;Auspicious Spirits;true;Tier 5;SPELL;155271
+Talent;Shadow;Psychic Link;true;Tier 5;SPELL;199484
+Talent;Shadow;Shadow Crash;false;Tier 5;SPELL;342834
+Talent;Shadow;Damnation;false;Tier 6;SPELL;341374
+Talent;Shadow;Mindbender;false;Tier 6;SPELL;200174
+Talent;Shadow;Void Torrent;false;Tier 6;SPELL;263165
+Talent;Shadow;Ancient Madness;true;Tier 7;SPELL;341240
+Talent;Shadow;Hungering Void;true;Tier 7;SPELL;345218
+Talent;Shadow;Surrender to Madness;false;Tier 7;SPELL;319952

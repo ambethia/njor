@@ -1,0 +1,157 @@
+Ability;Warrior;Charge;;false;SPELL;100
+Ability;Warrior;Pummel;;false;SPELL;6552
+Ability;Warrior;Shield Slam;;false;SPELL;23922
+Ability;Warrior;Slam;;false;SPELL;1464
+Ability;Warrior;Shield Block;;false;SPELL;2565
+Ability;Warrior;Hamstring;;false;SPELL;1715
+Ability;Warrior;Execute;;false;SPELL;163201
+Ability;Warrior;Whirlwind;;false;SPELL;1680
+Ability;Warrior;Victory Rush;;false;SPELL;34428
+Ability;Warrior;Victory Rush;;true;SPELL;319158
+Ability;Warrior;Taunt;;false;SPELL;355
+Ability;Warrior;Ignore Pain;;false;SPELL;190456
+Ability;Warrior;Shield Block;;true;SPELL;231847
+Ability;Warrior;Heroic Throw;;false;SPELL;57755
+Ability;Warrior;Berserker Rage;;false;SPELL;18499
+Ability;Warrior;Heroic Leap;;false;SPELL;6544
+Ability;Warrior;Intimidating Shout;;false;SPELL;5246
+Ability;Warrior;Battle Shout;;false;SPELL;6673
+Ability;Warrior;Shattering Throw;;false;SPELL;64382
+Ability;Warrior;Intervene;;false;SPELL;3411
+Ability;Warrior;Rallying Cry;;false;SPELL;97462
+Ability;Warrior;Spell Reflection;;false;SPELL;23920
+Ability;Warrior;Challenging Shout;;false;SPELL;1161
+Ability;Warrior;Rallying Cry;;true;SPELL;316825
+Ability;Arms;Mortal Strike;;false;SPELL;12294
+Ability;Arms;Mastery: Deep Wounds;;true;SPELL;262111
+Ability;Arms;Overpower;;false;SPELL;7384
+Ability;Arms;Execute;;true;SPELL;316405
+Ability;Arms;Execute;;true;SPELL;231830
+Ability;Arms;Colossus Smash;;false;SPELL;167105
+Ability;Arms;Slam;;true;SPELL;261901
+Ability;Arms;Piercing Howl;;false;SPELL;12323
+Ability;Arms;Sweeping Strikes;;false;SPELL;260708
+Ability;Arms;Die by the Sword;;false;SPELL;118038
+Ability;Arms;Seasoned Soldier;;true;SPELL;279423
+Ability;Arms;Overpower;;true;SPELL;316440
+Ability;Arms;Tactician;;true;SPELL;184783
+Ability;Arms;Colossus Smash;;true;SPELL;316411
+Ability;Arms;Bladestorm;;false;SPELL;227847
+Ability;Arms;Sweeping Strikes;;true;SPELL;316432
+Ability;Arms;Mortal Strike;;true;SPELL;261900
+Ability;Arms;Slam;;true;SPELL;316534
+Ability;Arms;Overpower;;true;SPELL;316441
+Ability;Arms;Die by the Sword;;true;SPELL;315948
+Ability;Arms;Sweeping Strikes;;true;SPELL;316433
+Ability;Fury;Bloodthirst;;false;SPELL;23881
+Ability;Fury;Whirlwind;;false;SPELL;190411
+Ability;Fury;Execute;;false;SPELL;5308
+Ability;Fury;Mastery: Unshackled Fury;;true;SPELL;76856
+Ability;Fury;Enrage;;true;SPELL;184361
+Ability;Fury;Raging Blow;;false;SPELL;85288
+Ability;Fury;Execute;;true;SPELL;316402
+Ability;Fury;Single-Minded Fury;;true;SPELL;81099
+Ability;Fury;Titan's Grip;;true;SPELL;46917
+Ability;Fury;Execute;;true;SPELL;316403
+Ability;Fury;Rampage;;false;SPELL;184367
+Ability;Fury;Enrage;;true;SPELL;316424
+Ability;Fury;Piercing Howl;;false;SPELL;12323
+Ability;Fury;Whirlwind;;true;SPELL;316435
+Ability;Fury;Enraged Regeneration;;false;SPELL;184364
+Ability;Fury;Raging Blow;;true;SPELL;316452
+Ability;Fury;Rampage;;true;SPELL;316412
+Ability;Fury;Enraged Regeneration;;true;SPELL;316474
+Ability;Fury;Whirlwind;;true;SPELL;12950
+Ability;Fury;Recklessness;;false;SPELL;1719
+Ability;Fury;Raging Blow;;true;SPELL;316453
+Ability;Fury;Rampage;;true;SPELL;316519
+Ability;Fury;Bloodthirst;;true;SPELL;316537
+Ability;Fury;Enrage;;true;SPELL;316425
+Ability;Fury;Recklessness;;true;SPELL;316828
+Ability;Fury;Execute;;true;SPELL;231827
+Ability;Protection;Shield Slam;;true;SPELL;316523
+Ability;Protection;Mastery: Critical Block;;true;SPELL;76857
+Ability;Protection;Revenge;;false;SPELL;6572
+Ability;Protection;Execute;;true;SPELL;316405
+Ability;Protection;Devastate;;false;SPELL;20243
+Ability;Protection;Execute;;true;SPELL;231830
+Ability;Protection;Thunder Clap;;false;SPELL;6343
+Ability;Protection;Vanguard;;true;SPELL;71
+Ability;Protection;Shockwave;;false;SPELL;46968
+Ability;Protection;Shield Wall;;false;SPELL;871
+Ability;Protection;Demoralizing Shout;;false;SPELL;1160
+Ability;Protection;Shield Slam;;true;SPELL;231834
+Ability;Protection;Ignore Pain;;true;SPELL;316778
+Ability;Protection;Avatar;;false;SPELL;107574
+Ability;Protection;Thunder Clap;;true;SPELL;316414
+Ability;Protection;Last Stand;;false;SPELL;12975
+Ability;Protection;Riposte;;true;SPELL;161798
+Ability;Protection;Deep Wounds;;true;SPELL;115768
+Ability;Protection;Shield Slam;;true;SPELL;316790
+Ability;Protection;Vanguard;;true;SPELL;316428
+Ability;Protection;Demoralizing Shout;;true;SPELL;316464
+Ability;Protection;Avatar;;true;SPELL;316438
+Ability;Protection;Shield Wall;;true;SPELL;316834
+Talent;Arms;War Machine;true;Tier 1;SPELL;262231
+Talent;Arms;Sudden Death;true;Tier 1;SPELL;29725
+Talent;Arms;Skullsplitter;false;Tier 1;SPELL;260643
+Talent;Arms;Double Time;true;Tier 2;SPELL;103827
+Talent;Arms;Impending Victory;false;Tier 2;SPELL;202168
+Talent;Arms;Storm Bolt;false;Tier 2;SPELL;107570
+Talent;Arms;Massacre;true;Tier 3;SPELL;281001
+Talent;Arms;Fervor of Battle;true;Tier 3;SPELL;202316
+Talent;Arms;Rend;false;Tier 3;SPELL;772
+Talent;Arms;Second Wind;true;Tier 4;SPELL;29838
+Talent;Arms;Bounding Stride;true;Tier 4;SPELL;202163
+Talent;Arms;Defensive Stance;false;Tier 4;SPELL;197690
+Talent;Arms;Collateral Damage;true;Tier 5;SPELL;334779
+Talent;Arms;Warbreaker;false;Tier 5;SPELL;262161
+Talent;Arms;Cleave;false;Tier 5;SPELL;845
+Talent;Arms;In For The Kill;true;Tier 6;SPELL;248621
+Talent;Arms;Avatar;false;Tier 6;SPELL;107574
+Talent;Arms;Deadly Calm;false;Tier 6;SPELL;262228
+Talent;Arms;Anger Management;true;Tier 7;SPELL;152278
+Talent;Arms;Dreadnaught;true;Tier 7;SPELL;262150
+Talent;Arms;Ravager;false;Tier 7;SPELL;152277
+Talent;Fury;War Machine;true;Tier 1;SPELL;346002
+Talent;Fury;Sudden Death;true;Tier 1;SPELL;280721
+Talent;Fury;Fresh Meat;true;Tier 1;SPELL;215568
+Talent;Fury;Double Time;true;Tier 2;SPELL;103827
+Talent;Fury;Impending Victory;false;Tier 2;SPELL;202168
+Talent;Fury;Storm Bolt;false;Tier 2;SPELL;107570
+Talent;Fury;Massacre;true;Tier 3;SPELL;206315
+Talent;Fury;Frenzy;true;Tier 3;SPELL;335077
+Talent;Fury;Onslaught;false;Tier 3;SPELL;315720
+Talent;Fury;Furious Charge;true;Tier 4;SPELL;202224
+Talent;Fury;Bounding Stride;true;Tier 4;SPELL;202163
+Talent;Fury;Warpaint;true;Tier 4;SPELL;208154
+Talent;Fury;Seethe;true;Tier 5;SPELL;335091
+Talent;Fury;Frothing Berserker;true;Tier 5;SPELL;215571
+Talent;Fury;Cruelty;true;Tier 5;SPELL;335070
+Talent;Fury;Meat Cleaver;true;Tier 6;SPELL;280392
+Talent;Fury;Dragon Roar;false;Tier 6;SPELL;118000
+Talent;Fury;Bladestorm;false;Tier 6;SPELL;46924
+Talent;Fury;Anger Management;true;Tier 7;SPELL;152278
+Talent;Fury;Reckless Abandon;true;Tier 7;SPELL;202751
+Talent;Fury;Siegebreaker;false;Tier 7;SPELL;280772
+Talent;Protection;War Machine;true;Tier 1;SPELL;316733
+Talent;Protection;Punish;true;Tier 1;SPELL;275334
+Talent;Protection;Devastator;true;Tier 1;SPELL;236279
+Talent;Protection;Double Time;true;Tier 2;SPELL;103827
+Talent;Protection;Rumbling Earth;true;Tier 2;SPELL;275339
+Talent;Protection;Storm Bolt;false;Tier 2;SPELL;107570
+Talent;Protection;Best Served Cold;true;Tier 3;SPELL;202560
+Talent;Protection;Booming Voice;true;Tier 3;SPELL;202743
+Talent;Protection;Dragon Roar;false;Tier 3;SPELL;118000
+Talent;Protection;Crackling Thunder;true;Tier 4;SPELL;203201
+Talent;Protection;Bounding Stride;true;Tier 4;SPELL;202163
+Talent;Protection;Menace;true;Tier 4;SPELL;275338
+Talent;Protection;Never Surrender;true;Tier 5;SPELL;202561
+Talent;Protection;Indomitable;true;Tier 5;SPELL;202095
+Talent;Protection;Impending Victory;false;Tier 5;SPELL;202168
+Talent;Protection;Into the Fray;true;Tier 6;SPELL;202603
+Talent;Protection;Unstoppable Force;true;Tier 6;SPELL;275336
+Talent;Protection;Ravager;false;Tier 6;SPELL;228920
+Talent;Protection;Anger Management;true;Tier 7;SPELL;152278
+Talent;Protection;Heavy Repercussions;true;Tier 7;SPELL;203177
+Talent;Protection;Bolster;true;Tier 7;SPELL;280001
