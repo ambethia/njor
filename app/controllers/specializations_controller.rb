@@ -1,0 +1,2 @@
+class SpecializationsController < ResourceController
+end

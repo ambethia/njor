@@ -50,9 +50,6 @@ class ResourceController < ApplicationController
     end
   end
 
-  def parent_resource_parts
-  end
-
   def resource_name
     @resource_name ||= self.controller_name.singularize
   end

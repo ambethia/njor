@@ -1,0 +1,2 @@
+class KeybindsController < ResourceController
+end
