@@ -1,5 +1,6 @@
 .envrc
-log/
-tmp/
-storage/
 config/master.key
+log/
+node_modules/
+storage/
+tmp/

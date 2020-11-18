@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "snowpack dev"
+  },
+  "devDependencies": {
+    "@snowpack/plugin-svelte": "^3.3.0",
+    "autoprefixer": "^10.0.2",
+    "postcss": "^8.1.7",
+    "postcss-cli": "^8.3.0",
+    "snowpack": "^2.17.1"
+  },
+  "dependencies": {
+    "svelte": "^3.29.7",
+    "tailwindcss": "^1.9.6"
+  }
+}
