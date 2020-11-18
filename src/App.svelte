@@ -1,18 +1,19 @@
 <script>
-  let i = 0
+  import router from 'page'
+  import Categories from './pages/Categories'
+  import Keymaps from './pages/Keymaps'
 
-  function up() {
-    i += 1
-  }
+  import Layout from './components/Layout'
+
+  let page
+
+  router('/categories', () => (page = Categories))
+  router('/keymaps', () => (page = Keymaps))
+  router('/', () => router.redirect('/keymaps'))
+
+  router.start()
 </script>
 
-<p on:click={() => (i += 1)}>Hello, World, {i}</p>
-
-<style global lang="postcss">
-  /* purgecss start ignore */
-  @tailwind base;
-  @tailwind components;
-  /* purgecss end ignore */
-
-  @tailwind utilities;
-</style>
+<Layout>
+  <svelte:component this={page} />
+</Layout>

@@ -1,5 +1,3 @@
-require "pagy/extras/headers"
-
 class ResourceController < ApplicationController
   include Pagy::Backend
 

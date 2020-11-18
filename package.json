@@ -8,9 +8,11 @@
     "autoprefixer": "^10.0.2",
     "postcss": "^8.1.7",
     "postcss-cli": "^8.3.0",
+    "postcss-nested": "^5.0.1",
     "snowpack": "^2.17.1"
   },
   "dependencies": {
+    "page": "^1.11.6",
     "svelte": "^3.29.7",
     "tailwindcss": "^1.9.6"
   }
