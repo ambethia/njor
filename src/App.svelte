@@ -6,6 +6,8 @@
   }
 </script>
 
+<p on:click={() => (i += 1)}>Hello, World, {i}</p>
+
 <style global lang="postcss">
   /* purgecss start ignore */
   @tailwind base;
@@ -14,5 +16,3 @@
 
   @tailwind utilities;
 </style>
-
-<p on:click={() => (i += 1)}>Hello, World, {i}</p>
