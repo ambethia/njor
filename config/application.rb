@@ -15,6 +15,7 @@ module Njor
     config.load_defaults 6.0
     config.api_only = true
     config.generators.system_tests = nil
+    config.active_storage.routes_prefix = "/api/attachments"
 
     excluded_routes = ->(env) { !env["PATH_INFO"].match(%r{^/api}) }
     config.middleware.use OliveBranch::Middleware,

@@ -1,4 +1,4 @@
 class PlayableClass < ApplicationRecord
+  include IconAttachment
   has_many :specializations
-  has_one_attached :icon
 end

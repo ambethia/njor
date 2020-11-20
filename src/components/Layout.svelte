@@ -4,6 +4,6 @@
 
 <Tailwind />
 
-<main class="max-w-screen-md mx-auto">
+<main class="max-w-screen-md mx-auto px-4">
   <slot />
 </main>

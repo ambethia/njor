@@ -1,4 +1,4 @@
 class Ability < ApplicationRecord
+  include IconAttachment
   belongs_to :specialization
-  has_one_attached :icon
 end

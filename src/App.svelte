@@ -1,5 +1,6 @@
 <script>
   import router from 'page'
+  import Abilities from './pages/Abilities'
   import Categories from './pages/Categories'
   import Keymaps from './pages/Keymaps'
 
@@ -7,6 +8,7 @@
 
   let page
 
+  router('/abilities', () => (page = Abilities))
   router('/categories', () => (page = Categories))
   router('/keymaps', () => (page = Keymaps))
   router('/', () => router.redirect('/keymaps'))

@@ -9,11 +9,10 @@
   let pages = {}
 
   async function loadCollection(path) {
-    const data = await get(path, { items })
-    if (!data.error) {
-      collection = data.result
+    const { error, result, ...data } = await get(path, { items })
+    if (!error) {
+      collection = result
       pages = data.pages
-      console.log({ pages })
     }
   }
 
