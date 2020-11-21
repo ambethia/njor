@@ -1,15 +1,23 @@
 <script>
-  import { afterUpdate } from 'svelte'
+  import { afterUpdate, beforeUpdate } from 'svelte'
   import PageHeader from '../components/PageHeader'
   import PlayableClassSelect from '../components/PlayableClassSelect'
   import SpecializationSelect from '../components/SpecializationSelect'
   import AbilityCategorySelect from '../components/Ability/CategorySelect'
+  import abilities from '../data/abilities.json'
 
   let currentClass
   let currentSpec
+  let currentAbilities = []
 
   afterUpdate(() => {
     window.$WowheadPower.refreshLinks()
+  })
+
+  beforeUpdate(() => {
+    if (currentSpec) {
+      currentAbilities = abilities[currentClass.name][currentSpec.name] || []
+    }
   })
 </script>
 
@@ -22,7 +30,7 @@
 
   {#if currentSpec}
     <div class="my-4 text-xl">
-      {#each currentSpec.abilities as ability}
+      {#each currentAbilities as ability}
         <AbilityCategorySelect {ability} />
       {/each}
     </div>

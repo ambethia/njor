@@ -4,14 +4,14 @@
   export let currentSpec = null
 
   beforeUpdate(() => {
-    if (!currentClass.specializations.includes(currentSpec)) {
-      currentSpec = currentClass.specializations[0]
+    if (!currentClass.specs.includes(currentSpec)) {
+      currentSpec = currentClass.specs[0]
     }
   })
 </script>
 
 <nav class="flex flex-col md:flex-row">
-  {#each currentClass.specializations as spec (spec.name)}
+  {#each currentClass.specs as spec (spec.name)}
     <button
       on:click={() => (currentSpec = spec)}
       class:active={currentSpec === spec}
