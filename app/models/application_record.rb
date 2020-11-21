@@ -3,7 +3,7 @@ class ApplicationRecord < ActiveRecord::Base
 
   def serializable_hash(options = {})
     options.reverse_merge!({ except: [:created_at, :updated_at] })
-    options.reverse_merge!({ methods: [:icon_path] }) if respond_to? :icon_path
+    # options.reverse_merge!({ methods: [:icon_path] }) if respond_to? :icon_path
     super(options)
   end
 end
