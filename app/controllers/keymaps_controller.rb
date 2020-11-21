@@ -1,2 +1,0 @@
-class KeymapsController < ResourceController
-end

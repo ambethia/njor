@@ -1,2 +1,0 @@
-class ActionBarsController < ResourceController
-end

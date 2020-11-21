@@ -1,2 +1,0 @@
-class CategoriesController < ResourceController
-end

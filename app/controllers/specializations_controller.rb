@@ -1,2 +1,0 @@
-class SpecializationsController < ResourceController
-end

@@ -1,2 +1,0 @@
-class AbilitiesController < ResourceController
-end

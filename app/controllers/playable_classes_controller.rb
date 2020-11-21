@@ -1,2 +1,0 @@
-class PlayableClassesController < ResourceController
-end
