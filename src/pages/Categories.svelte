@@ -1,20 +1,23 @@
 <script>
-  import Paginate from '../components/Paginate'
   import PageHeader from '../components/PageHeader'
-  let categories = []
+  import categories from '../data/categories.json'
 </script>
 
 <PageHeader title="Ability Categories" />
 
 <table class="w-full">
   <tbody>
-    {#each categories as category (category.id)}
-      <tr style="background-color: {category.color}">
-        <td class="p-2">{category.main}</td>
-        <td class="p-2">{category.name}</td>
+    {#each Object.keys(categories) as name}
+      <tr style="background-color: {categories[name].color}">
+        <th class="p-2 whitespace-no-wrap text-left">{name}</th>
+        <td>
+          <ul class="flex flex-wrap">
+            {#each categories[name].sub as sub}
+              <li class="m-1 p-1 bg-white bg-opacity-25">{sub}</li>
+            {/each}
+          </ul>
+        </td>
       </tr>
     {/each}
   </tbody>
 </table>
-
-<Paginate bind:collection={categories} load="/api/categories" items={25} />

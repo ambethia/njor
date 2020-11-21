@@ -1,0 +1,42 @@
+{
+  "Combat": {
+    "color": "#ffbf80",
+    "sub": [
+      "AOE",
+      "Filler",
+      "Cooldown - Long",
+      "Cooldown - Short",
+      "Resource Generator",
+      "Resource Spender",
+      "Other"
+    ]
+  },
+  "Defensive": {
+    "color": "#c6ff80",
+    "sub": ["Off-spec Heal", "Defensive Cooldown", "Other"]
+  },
+  "Auras": { "color": "#ff94e1", "sub": ["Aura", "Buff", "Cleanse", "Other"] },
+  "Movement": {
+    "color": "#61c0ff",
+    "sub": ["Utility", "Speed Boost", "Alternative", "Other"]
+  },
+  "Crowd Control / PVP": {
+    "color": "#8880ff",
+    "sub": [
+      "Taunt",
+      "Interrupt",
+      "Incapacitate",
+      "Stun",
+      "Slow / Snare",
+      "Displacement",
+      "Silence",
+      "PVP Talent",
+      "Other"
+    ]
+  },
+  "Utility": {
+    "color": "#fffbbd",
+    "sub": ["Spec", "Class", "Resurrection", "Other"]
+  },
+  "Other": { "color": "#adadad", "sub": ["Other"] }
+}

@@ -1,6 +1,6 @@
 <script>
   export let name
-  export let spin
+  export let spin = null
   export let set = 'fad'
 </script>
 
