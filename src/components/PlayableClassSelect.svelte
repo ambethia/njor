@@ -3,7 +3,7 @@
   export let currentClass = classes[0]
 </script>
 
-<nav class="flex border-gray-500 border-8">
+<nav class="flex">
   {#each classes as playableClass (playableClass.name)}
     <button
       on:click={() => (currentClass = playableClass)}

@@ -6,6 +6,12 @@
 
   import Layout from './components/Layout'
 
+  import { db } from './stores'
+
+  const request = indexedDB.open('njor', 1)
+  request.onerror = () => console.error('Could not open IndexedDB.')
+  request.onsuccess = (event) => ($db = event.target.result)
+
   let page
 
   router('/abilities', () => (page = Abilities))

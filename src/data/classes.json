@@ -86,13 +86,6 @@
             "icon": "spell_shadow_demonicempathy.jpg"
           },
           {
-            "name": "Death's Advance",
-            "isTalent": false,
-            "isPassive": true,
-            "spellId": 343257,
-            "icon": "spell_shadow_demonicempathy.jpg"
-          },
-          {
             "name": "Icebound Fortitude",
             "isTalent": false,
             "isPassive": false,
@@ -140,12 +133,6 @@
             "isPassive": false,
             "spellId": 46585,
             "icon": "inv_pet_ghoul.jpg"
-          },
-          {
-            "name": "Runeforging",
-            "isTalent": false,
-            "isPassive": false,
-            "spellId": 53428
           },
           {
             "name": "Sacrificial Pact",

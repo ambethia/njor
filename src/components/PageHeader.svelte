@@ -11,17 +11,17 @@
   <nav>
     <ul class="flex justify-center text-2xl">
       <li
-        class="p-4 text-green-600 opacity-25"
+        class="p-4 text-green-600 opacity-50"
         class:active={window.location.pathname === '/keymaps'}>
         <a href="/keymaps"><Icon name="keyboard" /></a>
       </li>
       <li
-        class="p-4 text-pink-600 opacity-25"
+        class="p-4 text-pink-600 opacity-50"
         class:active={window.location.pathname === '/abilities'}>
         <a href="/abilities"><Icon name="swords" /></a>
       </li>
       <li
-        class="p-4 text-indigo-600 opacity-25"
+        class="p-4 text-indigo-600 opacity-50"
         class:active={window.location.pathname === '/categories'}>
         <a href="/categories"><Icon name="sitemap" /></a>
       </li>

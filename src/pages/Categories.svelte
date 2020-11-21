@@ -5,7 +5,7 @@
 
 <PageHeader title="Ability Categories" />
 
-<table class="w-full">
+<table class="w-full text-gray-900">
   <tbody>
     {#each Object.keys(categories) as name}
       <tr style="background-color: {categories[name].color}">
