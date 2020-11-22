@@ -3,7 +3,7 @@
   import PageHeader from '../components/PageHeader'
   import PlayableClassSelect from '../components/PlayableClassSelect'
   import SpecializationSelect from '../components/SpecializationSelect'
-  import AbilityCategorySelect from '../components/Ability/CategorySelect'
+  import CategorizeAbility from '../components/CategorizeAbility'
   import abilities from '../data/abilities.json'
 
   let currentClass
@@ -31,7 +31,7 @@
   {#if currentSpec}
     <div class="my-4 text-xl">
       {#each currentAbilities as ability (ability.spellID)}
-        <AbilityCategorySelect {ability} />
+        <CategorizeAbility {ability} />
       {/each}
     </div>
   {/if}
