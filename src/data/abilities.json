@@ -4308,13 +4308,6 @@
       },
       {
         "name": "Arcane Familiar",
-        "subtext": null,
-        "isTalent": false,
-        "isPassive": false,
-        "spellID": "205022"
-      },
-      {
-        "name": "Arcane Familiar",
         "subtext": "Tier 1",
         "isTalent": true,
         "isPassive": false,

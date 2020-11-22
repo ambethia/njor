@@ -5,7 +5,6 @@
   import SpecializationSelect from '../components/SpecializationSelect'
   import AbilityCategorySelect from '../components/Ability/CategorySelect'
   import abilities from '../data/abilities.json'
-  // import { dbConnection } from '../db'
 
   let currentClass
   let currentSpec

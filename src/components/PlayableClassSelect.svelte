@@ -16,7 +16,7 @@
 </nav>
 
 <style lang="postcss">
-  button.active {
+  .active {
     @apply opacity-100;
   }
 </style>

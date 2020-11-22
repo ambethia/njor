@@ -9,7 +9,7 @@
   <tbody>
     {#each Object.keys(categories) as name}
       <tr style="background-color: {categories[name].color}">
-        <th class="p-2 whitespace-no-wrap text-left">{name}</th>
+        <th class="p-2 whitespace-nowrap text-left">{name}</th>
         <td>
           <ul class="flex flex-wrap">
             {#each categories[name].sub as sub}

@@ -15,7 +15,7 @@
 </script>
 
 <div class="flex justify-between items-center" class:talent={ability.isTalent}>
-  <div class="flex whitespace-no-wrap p-1">
+  <div class="flex whitespace-nowrap p-1">
     <a
       href="https://www.wowhead.com/spell={ability.spellID}"
       data-wowhead="spell={ability.spellID}"

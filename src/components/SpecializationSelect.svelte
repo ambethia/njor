@@ -16,8 +16,8 @@
       on:click={() => (currentSpec = spec)}
       class:active={currentSpec === spec}
       class:class-title={currentClass.name === spec.name}
-      class="p-2 opacity-25 flex-1 flex items-center"
-      style="background-color: {currentClass.color}">
+      class="p-2 opacity-25 flex-1 flex items-center text-gray-100"
+      style="background-color: {currentClass.color}; text-shadow: 0 1px 0 #333">
       <img class="h-8 w-8 mr-2" src="/icons/{spec.icon}" alt={spec.name} />
       <span>{spec.name}</span>
     </button>
@@ -25,7 +25,7 @@
 </nav>
 
 <style lang="postcss">
-  button.active {
+  .active {
     @apply opacity-100;
   }
 
