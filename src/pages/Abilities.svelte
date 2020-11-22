@@ -5,6 +5,7 @@
   import SpecializationSelect from '../components/SpecializationSelect'
   import AbilityCategorySelect from '../components/Ability/CategorySelect'
   import abilities from '../data/abilities.json'
+  // import { dbConnection } from '../db'
 
   let currentClass
   let currentSpec
@@ -30,7 +31,7 @@
 
   {#if currentSpec}
     <div class="my-4 text-xl">
-      {#each currentAbilities as ability}
+      {#each currentAbilities as ability (ability.spellID)}
         <AbilityCategorySelect {ability} />
       {/each}
     </div>

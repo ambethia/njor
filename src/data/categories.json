@@ -26,10 +26,13 @@
       "Taunt",
       "Interrupt",
       "Incapacitate",
-      "Stun",
+      "Stun / Sleep",
       "Slow / Snare",
-      "Displacement",
+      "Displace",
       "Silence",
+      "Charm",
+      "Root",
+      "Fear / Horror",
       "PVP Talent",
       "Other"
     ]

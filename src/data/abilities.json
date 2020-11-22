@@ -5438,13 +5438,6 @@
       },
       {
         "name": "Chi Wave",
-        "subtext": null,
-        "isTalent": false,
-        "isPassive": false,
-        "spellID": "115098"
-      },
-      {
-        "name": "Chi Wave",
         "subtext": "Tier 1",
         "isTalent": true,
         "isPassive": false,
@@ -5463,13 +5456,6 @@
         "isTalent": true,
         "isPassive": true,
         "spellID": "325201"
-      },
-      {
-        "name": "Diffuse Magic",
-        "subtext": null,
-        "isTalent": false,
-        "isPassive": false,
-        "spellID": "122783"
       },
       {
         "name": "Diffuse Magic",
@@ -5498,13 +5484,6 @@
         "isTalent": true,
         "isPassive": true,
         "spellID": "196607"
-      },
-      {
-        "name": "Fist of the White Tiger",
-        "subtext": null,
-        "isTalent": false,
-        "isPassive": false,
-        "spellID": "261947"
       },
       {
         "name": "Fist of the White Tiger",
@@ -5652,13 +5631,6 @@
         "isTalent": false,
         "isPassive": false,
         "spellID": "122470"
-      },
-      {
-        "name": "Whirling Dragon Punch",
-        "subtext": null,
-        "isTalent": false,
-        "isPassive": false,
-        "spellID": "152175"
       },
       {
         "name": "Whirling Dragon Punch",
