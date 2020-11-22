@@ -8,10 +8,7 @@
 
   function createKeymap() {
     if (!$keymaps[newKeymapName]) {
-      $keymaps[newKeymapName] = {
-        keybinds: new Array(48),
-        abilities: new Array(48),
-      }
+      $keymaps[newKeymapName] = new Array(5 * 12).fill([])
     } else {
       alert(`Keymap "${newKeymapName}" Exists`)
     }

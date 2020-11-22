@@ -1,4 +1,4 @@
-import { get, writable } from 'svelte/store'
+import { writable } from 'svelte/store'
 
 const ABILITY_CATEGORIZATION = 'ABILITY_CATEGORIZATION'
 const KEYMAPS = 'KEYMAPS'
